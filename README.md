@@ -1,2 +1,2 @@
 # uyghurOCR-telegramBot
-telegram bot image to uyghur language use uyghurOCR
+telegram bot image to txt use uyghurOCR
